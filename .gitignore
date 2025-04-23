@@ -1,0 +1,11 @@
+node_modules
+*.log
+*.log*
+build
+dist
+.DS_Store
+.idea
+temp
+release
+.vscode
+.specstory
