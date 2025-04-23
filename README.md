@@ -1,6 +1,6 @@
 # Get Installed Apps MCP Server
 
-A Model Context Protocol (MCP) server that provides information about installed applications on your computer.
+A Model Context Protocol (MCP) server that provides information about installed applications on your computer, supporte MacOS and Windows.
 
 ## Project Introduction
 
