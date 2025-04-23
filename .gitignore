@@ -9,3 +9,4 @@ temp
 release
 .vscode
 .specstory
+package-lock.json
