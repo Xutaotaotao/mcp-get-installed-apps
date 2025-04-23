@@ -17,7 +17,7 @@ Get Installed Apps MCP Server is a simple MCP implementation that allows AI assi
 ```
 mcp-get-installed-apps
 ├── src
-│   ├── index.js               # Application entry point
+│   ├── index.ts               # Application entry point
 ├── tsconfig.json              # TypeScript configuration file
 ├── package.json               # npm configuration file
 └── README.md                  # Project documentation
