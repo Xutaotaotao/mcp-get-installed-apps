@@ -1,6 +1,10 @@
 # Get Installed Apps MCP Server
 
-A Model Context Protocol (MCP) server that provides information about installed applications on your computer,  support MacOS and Windows.
+A Model Context Protocol (MCP) server that provides information about installed applications on your computer, support MacOS and Windows.
+
+<a href="https://glama.ai/mcp/servers/@Xutaotaotao/mcp-get-installed-apps">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Xutaotaotao/mcp-get-installed-apps/badge" alt="mcp-get-installed-apps MCP server" />
+</a>
 
 ## Project Introduction
 
